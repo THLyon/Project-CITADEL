@@ -1,5 +1,5 @@
 # Project CITADEL  
-**_C_yber _I_ntrusion _T_raining _A_nd _D_efense _E_mulation _L_ab**
+**_C_ yber _I_ ntrusion _T_ raining _A_ nd _D_ efense _E_ mulation _L_ ab**
 
 ---
 
