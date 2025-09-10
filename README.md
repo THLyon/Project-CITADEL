@@ -1,5 +1,5 @@
 # Project CITADEL  
-**_C_ yber _I_ ntrusion _T_ raining _A_ nd _D_ efense _E_ mulation _L_ ab**
+**Cyber Intrusion Training And Defense Emulation Lab**
 
 ---
 
